@@ -10,7 +10,7 @@
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisFernz26&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisFernz26&langs_count=6&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social Media:
 
