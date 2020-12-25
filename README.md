@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">An IT student from the University of the Cordilleras PH 📚</h3>
 
-- 🔭 I’m currently working on [a React-Laravel app](https://github.com/krisFernz26/react-laravel-app)
+- 🔭 I’m currently working on [a React-Laravel app](https://github.com/krisFernz26/react-laravel-app) and [a Vue-Laravel app](https://github.com/krisFernz26/laravel-vue-app) as well
 
 - 🌱 I’m currently learning **React and Laravel**
 
