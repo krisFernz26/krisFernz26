@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">An IT student from the University of the Cordilleras PH 📚</h3>
 
-- 🔭 I’m currently working on [SproutUp](https://github.com/krisFernz26/SproutUp)
+- 🔭 I’m currently working on [NebulaApp](https://github.com/krisFernz26/NebulaApp)
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **ReactJS and Flutter**
 
 - 📫 How to reach me **krisFernz26@gmail.com**
 
