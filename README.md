@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
-<h3 align="center">An IT student from the University of the Cordilleras PH 📚</h3>
+<h3 align="center">An IT Enthusiast 📚</h3>
 
 - 🌱 I’m currently learning **ReactJS and Flutter**
 
