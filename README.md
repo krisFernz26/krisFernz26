@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">An IT Enthusiast 📚</h3>
 
-- 🌱 I’m currently learning **ReactJS and Flutter**
+- 🌱 I’m currently learning **ReactJS and Laravel**
 
 - 📫 How to reach me **krisFernz26@gmail.com**
 
