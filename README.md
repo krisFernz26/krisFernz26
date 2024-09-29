@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **krisFernz26@gmail.com**
   
--  Website: **[kyle fernandez](https://kylefernandez.netlify.app/)**
+-  Website: **https://kylefernandez.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
